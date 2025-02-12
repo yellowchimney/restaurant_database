@@ -1,0 +1,31 @@
+menu_id,item_name,category,price,cost,is_vegan
+1,"Spring Rolls",appetiser,5.99,2.50,1
+2,"Garlic Bread",appetiser,4.49,2.00,1
+3,Bruschetta,appetiser,6.99,3.00,1
+4,"Chicken Wings",appetiser,7.99,3.50,0
+5,"Stuffed Mushrooms",appetiser,6.49,2.80,1
+6,"Beef Sliders",appetiser,9.99,4.50,0
+7,"Caesar Salad",main_course,10.99,5.00,0
+8,"Vegetable Stir-Fry",main_course,12.99,5.80,1
+9,"Grilled Salmon",main_course,16.99,7.50,0
+10,"Beef Burger",main_course,14.49,6.50,0
+11,"Chicken Parmesan",main_course,18.99,8.00,0
+12,"Veggie Tacos",main_course,13.99,6.00,1
+13,Lasagna,main_course,16.49,7.00,0
+14,"Chicken Alfredo",main_course,17.99,7.50,0
+15,"Spaghetti Bolognese",main_course,15.99,6.50,0
+16,"Chocolate Cake",dessert,6.99,3.00,0
+17,"Fruit Tart",dessert,7.49,3.50,1
+18,"Ice Cream Sundae",dessert,5.99,2.50,1
+19,Cheesecake,dessert,8.49,3.80,0
+20,"Panna Cotta",dessert,7.99,3.60,1
+21,Coffee,beverage,3.99,1.50,1
+22,"Iced Tea",beverage,3.49,1.20,1
+23,Cappuccino,beverage,4.49,1.80,1
+24,Lemonade,beverage,3.79,1.40,1
+25,"Orange Juice",beverage,4.99,2.00,1
+26,Espresso,beverage,2.99,1.20,1
+27,"Hot Chocolate",beverage,3.99,1.70,1
+28,Mojito,beverage,7.49,3.00,0
+29,Soda,beverage,2.49,1.00,1
+30,Milkshake,beverage,5.49,2.40,1
